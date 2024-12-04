@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{177895CB-4F47-3755-436B-A776DA2B4B54}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="34" Column="27" />
+      <File FileName="Assets/Scripts/RatEnemy.cs" />
+      <File FileName="Assets/Scripts/RoachEnemy.cs" />
+      <File FileName="Assets/Scripts/Collectables.cs" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="11" Column="33" />
+      <File FileName="Assets/Scripts/EnemySpawnManager.cs" />
+      <File FileName="Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/Editor/CommandLineManager.cs" Line="86" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f450407a-3de7-4dcb-9ba0-418deea361e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
